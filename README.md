@@ -433,6 +433,10 @@ cp infra/.env.example infra/.env  # add API keys
 cd infra && docker compose up -d
 ```
 
+## One-Click Deploy
+
+[![Deploy on RepoCloud](https://d16t0pc4846x52.cloudfront.net/deploylobe.svg)](https://repocloud.io/details/Cortex%20Hub/)
+
 ---
 
 ## Multi-Agent Conductor
